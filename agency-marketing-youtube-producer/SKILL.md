@@ -67,7 +67,7 @@ These are the Copy Geek platform rules. `CLAUDE.md` on the deploy branch and the
 
 ### Settled. Do not reopen.
 - Instagram is retired. Do not post there, do not rebuild the carousel, do not put the icon back on the site. `server/footerCommunity.test.ts` refuses it.
-- YouTube joins the site's footer only once the channel URL has been opened and confirmed to resolve. A guessed handle is what that rule forbids.
+- The channel is `youtube.com/@copygeekdotlive`, the same handle as X. The site's footer links it; a different handle anywhere is a typo.
 
 ## 📋 Your Deliverables
 
