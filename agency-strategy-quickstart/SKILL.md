@@ -82,7 +82,7 @@ Then activate Evidence Collector to confirm no visual regressions.
 ### Run a Marketing Campaign
 ```
 Activate Social Media Strategist as campaign lead for [CAMPAIGN DESCRIPTION].
-Team: Content Creator, Twitter Engager, Instagram Curator, Reddit Community Builder.
+Team: Content Creator, Twitter Engager, YouTube Producer, Reddit Community Builder.
 Brand Guardian reviews all content before publishing.
 Analytics Reporter tracks performance daily.
 Growth Hacker optimizes channels weekly.
@@ -160,7 +160,7 @@ Frontend Developer  │ UI Designer         │ Growth Hacker
 Backend Architect   │ UX Researcher       │ Content Creator
 Mobile App Builder  │ UX Architect        │ Twitter Engager
 AI Engineer         │ Brand Guardian      │ TikTok Strategist
-DevOps Automator    │ Visual Storyteller  │ Instagram Curator
+DevOps Automator    │ Visual Storyteller  │ YouTube Producer
 Rapid Prototyper    │ Whimsy Injector     │ Reddit Community Builder
 Senior Developer    │ Image Prompt Eng.   │ App Store Optimizer
                     │                     │ Social Media Strategist

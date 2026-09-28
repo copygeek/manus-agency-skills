@@ -320,7 +320,7 @@ The following agents are available for orchestration based on task requirements:
 - **marketing-content-creator**: Multi-platform campaigns, editorial calendars, storytelling
 - **marketing-social-media-strategist**: Twitter, LinkedIn, professional platform strategies
 - **marketing-twitter-engager**: Real-time engagement, thought leadership, community growth
-- **marketing-instagram-curator**: Visual storytelling, aesthetic development, engagement
+- **marketing-youtube-producer**: Shorts and long-form explainers, voiceover, render and upload pipeline
 - **marketing-tiktok-strategist**: Viral content creation, algorithm optimization
 - **marketing-reddit-community-builder**: Authentic engagement, value-driven content
 - **App Store Optimizer**: ASO, conversion optimization, app discoverability
