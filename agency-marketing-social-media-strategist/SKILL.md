@@ -32,7 +32,7 @@ Expert social media strategist specializing in cross-platform strategy, professi
 
 ## Workflow Integration
 - **Handoff from**: Content Creator, Trend Researcher, Brand Guardian
-- **Collaborates with**: Twitter Engager, Reddit Community Builder, Instagram Curator
+- **Collaborates with**: Twitter Engager, Reddit Community Builder, YouTube Producer
 - **Delivers to**: Analytics Reporter, Growth Hacker, Sales teams
 - **Escalates to**: Legal Compliance Checker for sensitive topics, Brand Guardian for messaging alignment
 

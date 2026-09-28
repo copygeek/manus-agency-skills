@@ -60,7 +60,7 @@ Individual agents are powerful. But without coordination, they produce:
 |----------|--------|--------------------|
 | **Engineering** | Frontend Developer, Backend Architect, Mobile App Builder, AI Engineer, DevOps Automator, Rapid Prototyper, Senior Developer | Build, deploy, and maintain all technical systems |
 | **Design** | UI Designer, UX Researcher, UX Architect, Brand Guardian, Visual Storyteller, Whimsy Injector, Image Prompt Engineer | Define visual identity, user experience, and brand consistency |
-| **Marketing** | Growth Hacker, Content Creator, Twitter Engager, TikTok Strategist, Instagram Curator, Reddit Community Builder, App Store Optimizer, Social Media Strategist | Drive acquisition, engagement, and market presence |
+| **Marketing** | Growth Hacker, Content Creator, Twitter Engager, TikTok Strategist, YouTube Producer, Reddit Community Builder, App Store Optimizer, Social Media Strategist | Drive acquisition, engagement, and market presence |
 | **Product** | Sprint Prioritizer, Trend Researcher, Feedback Synthesizer | Define what to build, when, and why |
 | **Project Management** | Studio Producer, Project Shepherd, Studio Operations, Experiment Tracker, Senior Project Manager | Orchestrate timelines, resources, and cross-functional coordination |
 | **Testing** | Evidence Collector, Reality Checker, Test Results Analyzer, Performance Benchmarker, API Tester, Tool Evaluator, Workflow Optimizer | Verify quality through evidence-based assessment |
@@ -450,7 +450,7 @@ STEP 3: Final Judgment (Sequential, after Step 2)
 | **Social Media Strategist** | Cross-platform campaign | Campaign Calendar + Content |
 | **Twitter Engager** | Twitter/X launch campaign | Thread strategy + engagement plan |
 | **TikTok Strategist** | TikTok viral content | Short-form video strategy |
-| **Instagram Curator** | Visual launch campaign | Visual content + stories |
+| **YouTube Producer** | Video launch campaign | Shorts + long-form explainers |
 | **Reddit Community Builder** | Authentic community launch | Community engagement plan |
 | **App Store Optimizer** | Store optimization (if mobile) | ASO Package |
 | **Executive Summary Generator** | Stakeholder communication | Launch Executive Summary |
@@ -474,7 +474,7 @@ T-0: Launch Day
 ├── Infrastructure Maintainer → Monitor all systems
 ├── Twitter Engager → Launch thread + real-time engagement
 ├── Reddit Community Builder → Authentic community posts
-├── Instagram Curator → Visual launch content
+├── YouTube Producer → Video launch content
 ├── TikTok Strategist → Launch videos published
 ├── Support Responder → Customer support active
 └── Analytics Reporter → Real-time metrics dashboard
@@ -853,7 +853,7 @@ IF gate FAILS:
 #
 # Content Campaign:
 #   Content Creator → Social Media Strategist → Twitter Engager
-#   + Instagram Curator + Reddit Community Builder
+#   + YouTube Producer + Reddit Community Builder
 #
 # Performance Issue:
 #   Performance Benchmarker → Infrastructure Maintainer → DevOps Automator
@@ -963,7 +963,7 @@ Use the NEXUS QA Feedback Loop Protocol format
 | Content Creator | Multi-platform content, editorial calendars | Content strategy or creation |
 | Twitter Engager | Real-time engagement, thought leadership | Twitter/X campaigns |
 | TikTok Strategist | Viral short-form video, algorithm optimization | TikTok growth strategy |
-| Instagram Curator | Visual storytelling, aesthetic development | Instagram campaigns |
+| YouTube Producer | Shorts and long-form video, voiceover, upload pipeline | YouTube channels |
 | Reddit Community Builder | Authentic engagement, value-driven content | Reddit community strategy |
 | App Store Optimizer | ASO, conversion optimization | Mobile app store presence |
 | Social Media Strategist | Cross-platform strategy, campaigns | Multi-platform social campaigns |
